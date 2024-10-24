@@ -5,9 +5,10 @@
 }
 
 body {
-  width: 90%;
-  margin: auto;
-}
+  background-image: url("/asssets/favicon/logo.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+} 
 
 h1 {
   font-size: 36px;
@@ -40,4 +41,8 @@ hr {
 .credential, .institution {
   list-style: none;
 
+}
+
+#fav-icon {
+  max-height: fit-content;
 }
