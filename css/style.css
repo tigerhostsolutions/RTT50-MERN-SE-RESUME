@@ -4,11 +4,9 @@
   box-sizing: border-box;
 }
 
-body {
-  background-image: url("/asssets/favicon/logo.jpg");
-  background-repeat: no-repeat;
-  background-position: top right;
-} 
+  body {
+
+  } 
 
 h1 {
   font-size: 36px;
